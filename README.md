@@ -12,4 +12,13 @@ Here are some ideas to get you started:
   <!-- - 😄 Pronouns: ...... -->
   <!-- - ⚡ Fun fact: ... -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zorchp)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=zorchp&include_all_commits=true&card_width=415&line_height=24" alt="statistics">
+</span>
+<span>
+  &nbsp;
+  &nbsp;
+</span>
+<span>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=zorchp&layout=compact&langs_count=8" alt="statistics">
+</span>
